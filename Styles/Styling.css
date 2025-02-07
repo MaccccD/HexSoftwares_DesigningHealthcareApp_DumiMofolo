@@ -1,0 +1,11 @@
+*{
+    background-color: #051941;
+}
+.app-Container {
+    display: flex;
+    gap: 30px;
+}
+#Home{
+    width: 440px;
+    height: 956px;
+}
