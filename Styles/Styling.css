@@ -2,10 +2,11 @@
     background-color: #051941;
 }
 .app-Container {
-    display: flex;
-    gap: 30px;
+    display:flex;
+    justify-content: left;
+    gap: 25px;
 }
 #Home{
-    width: 440px;
-    height: 956px;
+    width: 340px;
+    height: 645px;
 }
